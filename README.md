@@ -4,4 +4,6 @@ This exploratory data analysis is my project for the [Linear Regression with Pyt
 
 As well, this is one of the challenges for Platzi Master -- an education acceleration program to form the future tech leaders in LATAM.
 
-<h2> Brief description </h2>:
+<h2> Brief description : </h2>
+
+We implement a basic linear regretion algorithm into code. The final result is similar to how the sklearn library runs.
